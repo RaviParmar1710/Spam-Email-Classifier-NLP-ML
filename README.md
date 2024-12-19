@@ -11,3 +11,5 @@ Interactive UI: A user-friendly interface built with Streamlit for real-time ema
 This tool demonstrates the practical application of machine learning and NLP in combating spam, enhancing productivity, and improving email security. The project serves as a valuable resource for understanding text classification and deploying machine learning models.
 
 Explore the repository to learn more and test the functionality!
+
+TRY ME!!! : Email-spam-detector-app : https://email-spam-detector-app.streamlit.app/ 
